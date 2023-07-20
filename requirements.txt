@@ -2,4 +2,4 @@ cohere
 streamlit
 sagemaker
 cohere_sagemaker
-textwrap
+textwrap3
